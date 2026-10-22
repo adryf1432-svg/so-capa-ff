@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Só Capa FF</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#101010;color:white;font-family:Arial,sans-serif}
+header{background:#1a1a1a;padding:24px 16px;text-align:center;border-bottom:3px solid #ff2020}
+h1{margin:0;color:#ff2929;font-size:34px}
+header p{color:#ddd}
+nav{display:flex;justify-content:center;gap:18px;flex-wrap:wrap;padding:15px;background:#222}
+nav a{color:white;text-decoration:none;font-weight:bold}
+.hero{text-align:center;padding:45px 18px;background:linear-gradient(135deg,#300000,#111)}
+.hero h2{font-size:29px}
+.hero p{color:#ddd;line-height:1.6}
+section{padding:22px 16px;max-width:850px;margin:auto}
+h2{color:#ff3030}
+.card{background:#202020;border:1px solid #444;border-left:4px solid #ff2020;border-radius:10px;padding:17px;margin:15px 0}
+.card h3{margin-top:0}
+.card p{color:#ddd;line-height:1.6}
+.tag{color:#ff4545;font-weight:bold}
+footer{text-align:center;padding:25px;background:#202020;color:#bbb;border-top:2px solid #ff2020}
+</style>
+</head>
+<body>
+<header>
+<h1>🔥 SÓ CAPA FF</h1>
+<p>sally'snot001 | Dicas para subir de nível</p>
+</header>
+<nav>
+<a href="#inicio">Início</a>
+<a href="#dicas">Dicas</a>
+<a href="#sensibilidade">Sensibilidade</a>
+<a href="#hud">HUD</a>
+</nav>
+<div class="hero" id="inicio">
+<h2>SEJA O MESTRE DO CAPA!</h2>
+<p>Bem-vindo ao Só Capa FF!<br>
+Dicas, configurações e conteúdo para evoluir no Free Fire.</p>
+</div>
+<section id="dicas">
+<h2>🎯 Dicas para dar capa</h2>
+<div class="card">
+<h3>01. Treine a mira</h3>
+<p>Entre no modo de treinamento e pratique puxadas curtas e controladas. Ajuste o movimento conforme a arma.</p>
+</div>
+<div class="card">
+<h3>02. Conheça suas armas</h3>
+<p>Experimente diferentes armas e aprenda o recuo, a distância ideal e a velocidade de cada uma.</p>
+</div>
+<div class="card">
+<h3>03. Treine com frequência</h3>
+<p>Pratique um pouco por dia e mude uma configuração de cada vez para comparar os resultados.</p>
+</div>
+</section>
+<section id="sensibilidade">
+<h2>⚙️ Sensibilidade</h2>
+<div class="card">
+<h3>Como encontrar sua configuração</h3>
+<p>Não existe um número perfeito para todos os celulares e jogadores. Comece com seus valores atuais e faça pequenos ajustes no treinamento.</p>
+<p><span class="tag">Dica:</span> se a mira passar da cabeça, teste diminuir um pouco a sensibilidade. Se ficar curta, teste aumentar um pouco.</p>
+</div>
+</section>
+<section id="hud">
+<h2>📱 Configuração de HUD</h2>
+<div class="card">
+<h3>Organize seus controles</h3>
+<p>Deixe os botões em posições confortáveis para seus dedos ou para o seu estilo de jogo. Teste o tamanho e a posição antes de jogar ranqueadas.</p>
+</div>
+<div class="card">
+<h3>GG Mouse Pro 3</h3>
+<p>Se você joga usando mouse no celular, teste os ajustes com cuidado e altere um de cada vez para identificar o que funciona melhor.</p>
+</div>
+</section>
+<footer>
+<p>© 2026 Só Capa FF</p>
+<p>Site de fã, sem vínculo oficial com Garena.</p>
+</footer>
+</body>
+</html>
